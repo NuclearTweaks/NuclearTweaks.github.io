@@ -3,19 +3,19 @@ Label: NuclearTweaks
 Suite: nucleartweaks
 Codename: nucleartweaks
 Version: 1.0
-Date: Sun, 01 Nov 2026 13:41:41 GMT
+Date: Sun, 01 Nov 2026 14:12:34 GMT
 Architectures: iphoneos-arm64
 Components: release
 Description: NuclearTweaks - jailbreak tweaks for iOS 27 (rootless). Unsigned beta repo: enable untrusted in Sileo.
 MD5Sum:
- c814dbe159c14e4bdbd0f99710c0a4b8 1320 release/binary-iphoneos-arm64/Packages
- 19c04e96d7baf3693a355172ffce31d9 702 release/binary-iphoneos-arm64/Packages.gz
- 85e69f35e22a52b101cdef103406df45 768 release/binary-iphoneos-arm64/Packages.xz
+ 153c98b9c8930784dc3145274205ac64 2124 release/binary-iphoneos-arm64/Packages
+ b63dd9fff93f089ac14202a848be6507 972 release/binary-iphoneos-arm64/Packages.gz
+ 7f66be04b63103983bc41e3764de2b91 1036 release/binary-iphoneos-arm64/Packages.xz
 SHA1:
- 9fd905ae8cbb2aba8e69a1965b9f6b211ff93288 1320 release/binary-iphoneos-arm64/Packages
- c4f319482608c1bf7a94522e7cb10c67b56bec2f 702 release/binary-iphoneos-arm64/Packages.gz
- b53ec963b28545e1bc46ff8e7cee7a319cd6ae1c 768 release/binary-iphoneos-arm64/Packages.xz
+ 198acd6ba212ef2109d050e1880442c8dcf80547 2124 release/binary-iphoneos-arm64/Packages
+ 3f0b08c61fa103589615a8d67e8b53c2cebb9a6a 972 release/binary-iphoneos-arm64/Packages.gz
+ e75658815bb1298e1281b217ce0081b09c1bc582 1036 release/binary-iphoneos-arm64/Packages.xz
 SHA256:
- 7a2cd0133bd4d9ed90c9598bb42f304266bba754d9015714662a1837e47a809d 1320 release/binary-iphoneos-arm64/Packages
- 10722caa55df23cd944d65ba4010b4f9a4fc75d3de5e4198c791bb5ec652f65a 702 release/binary-iphoneos-arm64/Packages.gz
- b3e5802c23e74b827226a2e9b61627464d4aaa85dd1f0daf7f0dca867ec0c470 768 release/binary-iphoneos-arm64/Packages.xz
+ 00eab9e8fe361aef681689770d2141a0488f61bee590ce8db36bac48795ee45e 2124 release/binary-iphoneos-arm64/Packages
+ 87022116fb00a55065065a3ad4a6444b73a5ee9f599b37229af11c17a76a15fa 972 release/binary-iphoneos-arm64/Packages.gz
+ 95e0787d69ef2d6c6e838ad8b94847041198e923419d71e591617bdfc2616265 1036 release/binary-iphoneos-arm64/Packages.xz

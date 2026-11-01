@@ -16,6 +16,25 @@ Size: 11692
 MD5sum: 52bd6c6e78975dbd737e190c1544712b
 SHA1: 431d682018b567c4ee98bb705e747d7281bef1bd
 SHA256: c18d3d0b3a1a4a07723d8ef62eb7737ae06e21bca6c0a0898753a66333084281
+Package: com.nucleartweaks.dynuclear-volume
+Name: DynuclearVolume
+Depends: mobilesubstrate, firmware (>= 15.0)
+Recommends: preferenceloader
+Maintainer: Spec
+Author: Spec
+Description: Listens to the room right before a notification or Siri response
+ plays and retunes system volume to match: quiet room → your configured
+ minimum, loud room → maximum. Separate min/max sliders for notifications
+ and Siri. Applies live, no respring.
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Installed-Size: 340
+Filename: https://nucleartweaks.github.io/pool/release/com.nucleartweaks.dynuclear-volume_1.0.0_iphoneos-arm64.deb
+Size: 13934
+MD5sum: 059c5e91ea1ce3dcfe8a3933dec22d75
+SHA1: 5f140002d1251ab71f2033f5c94300a1d391bccb
+SHA256: a6b12e5fba8f93c504aa10e6cfda6eb25cd4e5698f4636c302347944ebe9cbd8
 Package: com.nucleartweaks.jbhellotweak
 Name: JBHelloTweak
 Depends: mobilesubstrate, firmware (>= 15.0)
