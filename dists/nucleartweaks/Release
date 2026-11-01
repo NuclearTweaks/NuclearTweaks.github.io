@@ -1,0 +1,12 @@
+Origin: NuclearTweaks
+Label: NuclearTweaks
+Suite: nucleartweaks
+Codename: nucleartweaks
+Version: 1.0
+Date: Sun, 01 Nov 2026 02:28:02 GMT
+Architectures: iphoneos-arm64
+Components: 
+Description: NuclearTweaks - jailbreak tweaks for iOS 27 (rootless). Unsigned beta repo: enable untrusted in Sileo.
+MD5Sum:
+SHA1:
+SHA256:
