@@ -33,6 +33,7 @@ def list_tweak_repos():
 def latest_release(repo):
     r = gh(f"repos/{repo}/releases?per_page=1", check=False)
     if r.returncode:
+        print(f"  !! {repo}: releases API failed: {r.stderr.strip().splitlines()[-1] if r.stderr.strip() else 'unknown error'}")
         return None
     rel = json.loads(r.stdout)          # newest first, includes prereleases
     return rel[0] if rel else None
