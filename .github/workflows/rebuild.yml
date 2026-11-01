@@ -1,0 +1,29 @@
+name: rebuild-apt
+on:
+  repository_dispatch:
+    types: [tweak-published]
+  workflow_dispatch: {}
+  schedule:
+    - cron: "17 4 * * *"
+permissions:
+  contents: write
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ secrets.NUCLEAR_BOT_TOKEN || github.token }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Rebuild Packages / Release / index.html
+        run: python3 scripts/rebuild.py --out .
+      - name: Commit & push
+        run: |
+          set -euo pipefail
+          git config user.name  "NuclearTweaks-CI"
+          git config user.email "ci@nucleartweaks.invalid"
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "nothing changed"; exit 0
+          fi
+          git add -A
+          git commit -m "repo rebuild $(date -u +%Y-%m-%dT%H:%M:%SZ) [skip ci]"
+          git push
