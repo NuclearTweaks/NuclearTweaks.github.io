@@ -27,7 +27,7 @@ def gh(*args, check=True):
 
 def list_tweak_repos():
     r = gh(f"/orgs/{ORG}/repos?per_page=100", "--paginate",
-           "--jq", f'.[] | select(.topics // [] | index("{TOPIC}")) | .name')
+           "--jq", f'.[] | select(.topics // [] | index("{TOPIC}")) | .full_name')
     return sorted(set(r.stdout.split()))
 
 def latest_release(repo):
@@ -40,7 +40,7 @@ def latest_release(repo):
 
 def download_deb(repo, tag, asset, dest_dir):
     subprocess.run(["gh", "release", "download", tag, "-R", repo,
-                    "-n", asset, "-D", dest_dir, "--clobber"], check=True)
+                    "--pattern", asset, "-D", dest_dir, "--clobber"], check=True)
     return os.path.join(dest_dir, asset)
 
 def ar_entries(path):
