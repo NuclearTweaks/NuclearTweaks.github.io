@@ -3,19 +3,19 @@ Label: NuclearTweaks
 Suite: nucleartweaks
 Codename: nucleartweaks
 Version: 1.0
-Date: Sun, 01 Nov 2026 03:08:08 GMT
+Date: Sun, 01 Nov 2026 11:18:01 GMT
 Architectures: iphoneos-arm64
 Components: release
 Description: NuclearTweaks - jailbreak tweaks for iOS 27 (rootless). Unsigned beta repo: enable untrusted in Sileo.
 MD5Sum:
  d498debc84aa04ee853f1c6ff9fd49c2 570 release/binary-iphoneos-arm64/Packages
- aa7d78c191f78cea73059d0f047d4a47 398 release/binary-iphoneos-arm64/Packages.gz
+ 5add658287e52b197c937e6ee0f9a362 398 release/binary-iphoneos-arm64/Packages.gz
  16f73ec89143c6c69b40856d9b938dc8 472 release/binary-iphoneos-arm64/Packages.xz
 SHA1:
  c873a182f3d3f6547a95e86e093fa3b358219ed8 570 release/binary-iphoneos-arm64/Packages
- 3b7de6abc0c307a11ca9ed890f022eda640d80d7 398 release/binary-iphoneos-arm64/Packages.gz
+ 36ecfda48916413b1722088eff46be963d1a97de 398 release/binary-iphoneos-arm64/Packages.gz
  86c6f2b346c80643f909da02012b3ba386e1e1e0 472 release/binary-iphoneos-arm64/Packages.xz
 SHA256:
  77eb3aed75564ac6a16b7e42eb7411470715cefe6e66c227f62ed347c2f58a10 570 release/binary-iphoneos-arm64/Packages
- d81db9f9f01dd40aace884d1e390d04f272f4c5cff92276c81b437537f54ef69 398 release/binary-iphoneos-arm64/Packages.gz
+ 6dfc524dc53f2aa7158982835df48e363066ca40e6a23a8509f6bacdb807b473 398 release/binary-iphoneos-arm64/Packages.gz
  1f3c6e643cfa7205343faafa8952645e2bec55d3cb6300f1bb7cc8e534456c6c 472 release/binary-iphoneos-arm64/Packages.xz
