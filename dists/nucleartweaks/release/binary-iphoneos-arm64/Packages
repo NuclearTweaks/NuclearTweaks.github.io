@@ -1,0 +1,16 @@
+Package: com.nucleartweaks.jbhellotweak
+Name: JBHelloTweak
+Depends: mobilesubstrate, firmware (>= 15.0)
+Maintainer: Spec
+Author: Spec
+Description: Proof-of-life tweak for the NuclearTweaks iOS 27 pipeline.
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Installed-Size: 168
+Filename: https://nucleartweaks.github.io/pool/release/com.nucleartweaks.jbhellotweak_1.0.0_iphoneos-arm64.deb
+Size: 3608
+MD5sum: 669ac238fbb7ee9710e243c0f14c697c
+SHA1: f38ffd6c9667c33fe36214272d29c0464e017443
+SHA256: 3c5ade68b8f1fcbeb4989595e78dc8677ef38a2cdaddb7c634982b67e3f9471e
+
