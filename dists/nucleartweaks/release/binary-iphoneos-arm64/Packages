@@ -1,3 +1,21 @@
+Package: com.nucleartweaks.animation-nuke
+Name: AnimationNuke
+Depends: mobilesubstrate, firmware (>= 15.0)
+Recommends: preferenceloader
+Maintainer: Spec
+Author: Spec
+Description: Scale decorative UI animations from 0.5x to 100x — app
+ open/close/switch, lock-screen dismiss, scroll bounce. Slider in Settings;
+ 100x makes them effectively instant. Applies live, no respring needed.
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Installed-Size: 368
+Filename: https://nucleartweaks.github.io/pool/release/com.nucleartweaks.animation-nuke_1.0.0_iphoneos-arm64.deb
+Size: 11692
+MD5sum: 52bd6c6e78975dbd737e190c1544712b
+SHA1: 431d682018b567c4ee98bb705e747d7281bef1bd
+SHA256: c18d3d0b3a1a4a07723d8ef62eb7737ae06e21bca6c0a0898753a66333084281
 Package: com.nucleartweaks.jbhellotweak
 Name: JBHelloTweak
 Depends: mobilesubstrate, firmware (>= 15.0)
