@@ -50,4 +50,25 @@ Size: 3612
 MD5sum: 0e6e721078b4b16037e2909de7acdf00
 SHA1: d07a0f63097d9997fd030f6aa6a91a69efb52bfc
 SHA256: f5934124490df87f0ba31b95c951cd6ad735dfb132ba205ffbf5d836a4e7c3b2
+Package: com.nucleartweaks.screen-nuke
+Name: ScreenNuke
+Depends: mobilesubstrate, firmware (>= 15.0)
+Recommends: preferenceloader
+Maintainer: Spec
+Author: Spec
+Description: Shrink the whole UI so more content fits — continuous
+ More-Space mode. A slider scales everything (text, icons, rows, panels)
+ from 100% down to 55%, like rendering at a higher resolution and letting
+ the display downscale: zero blur, pixel-exact, iOS-8-era "more room" feel.
+ Optional extra-small system text on top. Settings slider; respring to
+ re-apply everywhere.
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Installed-Size: 364
+Filename: https://nucleartweaks.github.io/pool/release/com.nucleartweaks.screen-nuke_1.0.0_iphoneos-arm64.deb
+Size: 12456
+MD5sum: b8956d8077d01f469212e70f622b2bef
+SHA1: 546f14fa29179d1eb27bcf52f5de6339247291b8
+SHA256: c61802ca29412a712dd5e898c9e5cee866ba37d73d986cc2895509dfdd8e10b2
 

@@ -3,19 +3,19 @@ Label: NuclearTweaks
 Suite: nucleartweaks
 Codename: nucleartweaks
 Version: 1.0
-Date: Sun, 01 Nov 2026 14:12:34 GMT
+Date: Mon, 02 Nov 2026 11:15:39 GMT
 Architectures: iphoneos-arm64
 Components: release
 Description: NuclearTweaks - jailbreak tweaks for iOS 27 (rootless). Unsigned beta repo: enable untrusted in Sileo.
 MD5Sum:
- 153c98b9c8930784dc3145274205ac64 2124 release/binary-iphoneos-arm64/Packages
- b63dd9fff93f089ac14202a848be6507 972 release/binary-iphoneos-arm64/Packages.gz
- 7f66be04b63103983bc41e3764de2b91 1036 release/binary-iphoneos-arm64/Packages.xz
+ 5e8fc8a017aaa00ec26695115d85a38f 3032 release/binary-iphoneos-arm64/Packages
+ 5723ab572bca0bbd7c2e6da6f19d036a 1322 release/binary-iphoneos-arm64/Packages.gz
+ 5d2b978b5e7eae58bebf442aecd3b41a 1388 release/binary-iphoneos-arm64/Packages.xz
 SHA1:
- 198acd6ba212ef2109d050e1880442c8dcf80547 2124 release/binary-iphoneos-arm64/Packages
- 3f0b08c61fa103589615a8d67e8b53c2cebb9a6a 972 release/binary-iphoneos-arm64/Packages.gz
- e75658815bb1298e1281b217ce0081b09c1bc582 1036 release/binary-iphoneos-arm64/Packages.xz
+ 3566ea1877c303c9cadbb96d73ec9f4eb308b444 3032 release/binary-iphoneos-arm64/Packages
+ ab00bff249f8b7ded97733684059b7f35b523c6c 1322 release/binary-iphoneos-arm64/Packages.gz
+ bc457e1f190905b72353463e9980e760dbd992c7 1388 release/binary-iphoneos-arm64/Packages.xz
 SHA256:
- 00eab9e8fe361aef681689770d2141a0488f61bee590ce8db36bac48795ee45e 2124 release/binary-iphoneos-arm64/Packages
- 87022116fb00a55065065a3ad4a6444b73a5ee9f599b37229af11c17a76a15fa 972 release/binary-iphoneos-arm64/Packages.gz
- 95e0787d69ef2d6c6e838ad8b94847041198e923419d71e591617bdfc2616265 1036 release/binary-iphoneos-arm64/Packages.xz
+ e459079c324688a676f5b9fb9fc7c862f1843992c750a9e00744ed54dcc353b6 3032 release/binary-iphoneos-arm64/Packages
+ 5a5b6237b63603b4264a1701c5bbcfb47e1e285cfe666f401cfe4af8d1181c21 1322 release/binary-iphoneos-arm64/Packages.gz
+ c63672e313a54f99fdd1bcaa27fc57cbdaa95b10e2a3bf29cc9ac796b3089463 1388 release/binary-iphoneos-arm64/Packages.xz
