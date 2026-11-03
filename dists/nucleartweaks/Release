@@ -3,19 +3,19 @@ Label: NuclearTweaks
 Suite: nucleartweaks
 Codename: nucleartweaks
 Version: 1.0
-Date: Mon, 02 Nov 2026 12:27:58 GMT
+Date: Tue, 03 Nov 2026 00:31:28 GMT
 Architectures: iphoneos-arm64
 Components: release
 Description: NuclearTweaks - jailbreak tweaks for iOS 27 (rootless). Unsigned beta repo: enable untrusted in Sileo.
 MD5Sum:
- 5e8fc8a017aaa00ec26695115d85a38f 3032 release/binary-iphoneos-arm64/Packages
- 26636972a6fd9b7b7eac434ed738adcc 1322 release/binary-iphoneos-arm64/Packages.gz
- 5d2b978b5e7eae58bebf442aecd3b41a 1388 release/binary-iphoneos-arm64/Packages.xz
+ d7748f93735109b1c1e4e47a64933528 3721 release/binary-iphoneos-arm64/Packages
+ 01d4911b7aba3d0f73b6bed5ada9d872 1548 release/binary-iphoneos-arm64/Packages.gz
+ 201994de18290d67ef84010bac0dc088 1604 release/binary-iphoneos-arm64/Packages.xz
 SHA1:
- 3566ea1877c303c9cadbb96d73ec9f4eb308b444 3032 release/binary-iphoneos-arm64/Packages
- 4fec48c3bb1046b51d5bd0c1d600ce936f78d46d 1322 release/binary-iphoneos-arm64/Packages.gz
- bc457e1f190905b72353463e9980e760dbd992c7 1388 release/binary-iphoneos-arm64/Packages.xz
+ 29bc29ef8582cfc6070fb469dfeecc3146d30493 3721 release/binary-iphoneos-arm64/Packages
+ 4024b70199c861c794b2b5478c888a33eb128891 1548 release/binary-iphoneos-arm64/Packages.gz
+ f0c4d6bd4f1473c28f5d9295b89cabf9c4509c82 1604 release/binary-iphoneos-arm64/Packages.xz
 SHA256:
- e459079c324688a676f5b9fb9fc7c862f1843992c750a9e00744ed54dcc353b6 3032 release/binary-iphoneos-arm64/Packages
- a55dcec5284f4617aea7c7016ea4c46b534883172d80e7befdd8fccc09a3df6f 1322 release/binary-iphoneos-arm64/Packages.gz
- c63672e313a54f99fdd1bcaa27fc57cbdaa95b10e2a3bf29cc9ac796b3089463 1388 release/binary-iphoneos-arm64/Packages.xz
+ a684fbba4e3eb1d84744da7f50c58109c1dfdc9e57b42eb5d7114d3cd2096cf4 3721 release/binary-iphoneos-arm64/Packages
+ cc0d7b01014247f5a41ec9b538fdd4cb39bdede97fbd6cc0b50bbe242a1bd823 1548 release/binary-iphoneos-arm64/Packages.gz
+ 27ff77b0fd56c22a06ac30ddf725cb77bc924c87f67226c036838d5c30599f17 1604 release/binary-iphoneos-arm64/Packages.xz

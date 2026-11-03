@@ -50,6 +50,21 @@ Size: 3612
 MD5sum: 0e6e721078b4b16037e2909de7acdf00
 SHA1: d07a0f63097d9997fd030f6aa6a91a69efb52bfc
 SHA256: f5934124490df87f0ba31b95c951cd6ad735dfb132ba205ffbf5d836a4e7c3b2
+Package: com.nucleartweaks.notification-nuke
+Name: NotificationNuke
+Depends: mobilesubstrate, firmware (>= 15.0)
+Maintainer: Spec
+Author: Spec
+Description: Per-app notification sound cooldowns + regex text filters. Group chats stop dinging every message; junk reminders blocked entirely. Lock screen keeps showing them.
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Installed-Size: 376
+Filename: https://nucleartweaks.github.io/pool/release/com.nucleartweaks.notification-nuke_1.0.0_iphoneos-arm64.deb
+Size: 21504
+MD5sum: 866e49a74cf1474fb9e2e6d8e8a0b7d1
+SHA1: 8ec9986a29dd46db112ddd5eb2264262e3c68e63
+SHA256: 57924b330252152c10927909c01dd6bb366ea0574552fef5bc9d50cdf2b80b77
 Package: com.nucleartweaks.screen-nuke
 Name: ScreenNuke
 Depends: mobilesubstrate, firmware (>= 15.0)
