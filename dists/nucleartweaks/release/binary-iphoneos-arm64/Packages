@@ -86,4 +86,19 @@ Size: 12456
 MD5sum: b8956d8077d01f469212e70f622b2bef
 SHA1: 546f14fa29179d1eb27bcf52f5de6339247291b8
 SHA256: c61802ca29412a712dd5e898c9e5cee866ba37d73d986cc2895509dfdd8e10b2
+Package: com.nucleartweaks.version-nuke
+Name: VersionNuke
+Depends: mobilesubstrate, firmware (>= 15.0)
+Maintainer: Spec
+Author: Spec
+Description: Pin App Store apps to a known-good version. Per-app version pin: updates stop being offered, auto-update is neutered for that app, and any manual update reinstalls the pinned build instead of the new one. Unpin anytime.
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Installed-Size: 376
+Filename: https://nucleartweaks.github.io/pool/release/com.nucleartweaks.version-nuke_1.0.0_iphoneos-arm64.deb
+Size: 15752
+MD5sum: bce55e608243b26fc40feb1c16b147a0
+SHA1: 539a9e6f7b7561c5b77265fda9f8eeec9bd326b7
+SHA256: 96263b62ed1c5d8a4216bf229e755db87408c521d3c49c6f0c80b4ac3c04be15
 
